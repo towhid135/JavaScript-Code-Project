@@ -1,0 +1,42 @@
+.div1 {
+	background:green;
+	position:relative;
+	top:50px;
+	left:20%;
+	height: 400px;
+	width:300px;
+}
+
+.div2 {
+	background:green;
+	position:relative;
+	top:-350px;
+	left:50%;
+	height: 400px;
+	width:300px;
+}
+.b1{
+	position:relative;
+	top:50px;
+	left:30%;
+}
+.b3{
+	position:relative;
+	top:50px;
+	left:20%;
+}
+.p1,.t1,.p2{
+	position:relative;
+	top:50px;
+	left:20%;
+}
+.b2{
+	position:relative;
+	top:50px;
+	left:35%;
+}
+.p3{
+	position:relative;
+	top:50px;
+	left:20%;
+}
